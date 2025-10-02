@@ -20,5 +20,5 @@ The following diagram illustrates how the dataset is divided and how the models 
     - Each of these subsets is further split into 90% training and 10% validation 
     - CNN is trained with 85% dropout rate, while Bayes is trained with 15% dropout.  
   - 40% is used for training the combined model, with 70% for training/validation and 30% for testing (the test set includes various levels of degradation).  
-
+👉 Find the code for the split here: [split.ipynb](./split.ipynb)
 - Test dataset (provided separately) is used for final evaluation of all models.
