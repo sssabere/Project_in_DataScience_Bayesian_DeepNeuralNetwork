@@ -1,0 +1,19 @@
+name: pymc-notebook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - arviz
+  - pymc
+  - pytensor
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - watermark
