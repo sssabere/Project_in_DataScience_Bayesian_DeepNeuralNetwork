@@ -1,7 +1,7 @@
 # Project_in_DataScience_Bayesian_DeepNeuralNetwork
 ## Data File for Combine_CNN_BLR.ipynb
 
-The data required to run Combine_CNN_BLR.ipynb is not included in this repository but It can be downloaded shared Drive folder.
+The data required to run [Combine_CNN_BLR.ipynb](./Combine_CNN_BLR.ipynb) is not included in this repository but it can be downloaded shared Drive folder.
 Follow these steps:
 
 1. Download the data file from [HERE](https://drive.google.com/drive/folders/1pcT3Md9fMlrWPXrMy8W_DS72sEvPCarS?usp=drive_link) which is a shared Drive folder called “Project in DS”.
