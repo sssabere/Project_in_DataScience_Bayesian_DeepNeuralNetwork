@@ -1,0 +1,19 @@
+# Reduce Docker build context
+.git
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.ipynb_checkpoints/
+.env
+.env.*
+*.env
+.idea/
+.vscode/
+build/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db
+# If you have very large data directories, uncomment to exclude by default
+# data/
