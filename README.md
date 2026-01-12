@@ -37,6 +37,11 @@ You can obtain it from:
 After downloading, place the dataset in a directory named: data_copy/ so it can match the code. 
 
 ## Data Splitting and Degradation Setup 
+
+The following diagram illustrates how the dataset is divided and how the models are trained, validated, and tested:
+
+![Dataset Split](data_split-2.jpeg)
+
 - The original training set (60,000 images) is slpit into: 
   - 90% training
   - 10% validation (used for calibration and model selection)
